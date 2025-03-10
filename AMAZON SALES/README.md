@@ -37,7 +37,7 @@ This project analyzes Amazon sales data using **Power BI** to gain insights into
 2. **Optimize Regional Strategies:** Target underperforming regions to improve profitability.
 3. **Refine Shipping Strategy:** Evaluate the impact of different shipping modes on sales.
 4. **City-Level Insights:** Use sales trends to optimize marketing and distribution efforts.
-
+![image_anti](https://github.com/Pdeep666/POWERBI/blob/82403d12ea48d043595d547380fef1d30cbb5e17/AMAZON%20SALES/Screenshot%20(196).png)
 ## Future Enhancements
 - **Predictive Sales Analytics** using Machine Learning.
 - **Customer Segmentation Analysis** to tailor marketing strategies.
