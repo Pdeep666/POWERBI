@@ -49,7 +49,7 @@ This project analyzes **Reliance Store Sales Data** using **Power BI**, focusing
 7. **Recyclable Products:**
 
    - **Tell Tale, Tri-State, High Top, Ebony, and Hermanos** brands contribute the most recyclable products.
-
+   ![image_anti](https://github.com/Pdeep666/POWERBI/blob/97e2ec1aa62882541eaf224cab637b4a6fcf2a73/RELIANCE_STORE/op1.png)
 ## How to Use This Analysis
 
 - **Optimize Product Offerings**: Focus on high-demand brands while managing return rates.
