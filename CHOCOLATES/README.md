@@ -16,7 +16,6 @@ This project analyzes **Chocolate Sales Data** using **Power BI** to uncover tre
 
 ## Technologies Used
 - **Power BI** (for data visualization, modeling, and analysis)
-
 - **Power BI** (for data visualization and analysis)
 - **Chocolate Sales Dataset** (data source for insights)
 
@@ -53,7 +52,7 @@ This project analyzes **Chocolate Sales Data** using **Power BI** to uncover tre
 7. **Sales Team Performance:**
 
    - **Delish, Yummies, and Jucies** teams contribute significantly to overall sales.
-
+![image_anti](https://github.com/Pdeep666/POWERBI/blob/a6d3a0b53983ba59c95dea1b9423e5db5b03e30e/CHOCOLATES/output.png)
 ## How to Use This Analysis
 
 - **Optimize Sales Strategies**: Focus on best-selling products and high-revenue regions.
