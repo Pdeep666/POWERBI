@@ -40,7 +40,6 @@ This project analyzes Amazon sales data using **Power BI** to gain insights into
 
 ## Future Enhancements
 - **Predictive Sales Analytics** using Machine Learning.
-- **Real-time Dashboard Integration** for live sales tracking.
 - **Customer Segmentation Analysis** to tailor marketing strategies.
 
 ## Contributing
