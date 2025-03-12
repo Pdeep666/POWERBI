@@ -57,7 +57,7 @@ The chocolate industry faces challenges in identifying high-demand regions, opti
 
 7. **Sales Team Performance:**
    - **Delish, Yummies, and Jucies** teams contribute significantly to overall sales.
-
+![image_anti](https://github.com/Pdeep666/POWERBI/blob/6742d4986fd6d6fba7b538ea05378269ef5ced8b/CHOCOLATES/output.png)
 ## How to Use This Analysis
 
 - **Optimize Sales Strategies**: Focus on best-selling products and high-revenue regions.
