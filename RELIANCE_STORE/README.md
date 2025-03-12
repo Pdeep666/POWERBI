@@ -4,6 +4,18 @@
 
 This project analyzes **Reliance Store Sales Data** using **Power BI**, focusing on **sales trends, product performance, customer insights, and data modeling**. The dashboard provides actionable insights to improve sales strategies, inventory management, and customer engagement.
 
+## Business Problem
+
+Reliance Stores need to optimize their sales performance, inventory management, and customer engagement strategies. By analyzing sales trends, customer demographics, and product performance, the company can make data-driven decisions to enhance profitability and customer satisfaction.
+
+## Objectives
+
+- Identify key sales trends and top-performing products.
+- Analyze customer demographics to refine marketing strategies.
+- Improve inventory management based on regional sales performance.
+- Evaluate the impact of discounts on sales and profitability.
+- Assess product return trends to minimize losses.
+
 ## Features
 
 - **Data Modeling**: Established relationships between multiple datasets for better reporting.
@@ -21,35 +33,28 @@ This project analyzes **Reliance Store Sales Data** using **Power BI**, focusing
 ## Key Insights
 
 1. **Top Sales Districts:**
-
    - Highest sales recorded in **Los Angeles, Salem, Tacoma, Seattle, and Portland**.
 
 2. **Top-Selling Product Brands:**
-
    - **Hermanos, Tell Tale, High Top, Ebony, and Tri-State** generate the highest sales revenue.
 
 3. **Customer Distribution:**
-
    - Majority of customers are from **USA, Canada, and Mexico**.
    - **60.5% of purchases** are made by homeowners.
 
 4. **Product Returns Analysis:**
-
    - **Hermanos, Horatio, Tri-State, Tell Tale, and Ebony** brands have the highest return rates.
 
 5. **Discount Impact:**
-
    - Discounts vary by brand, with **Quick, Medalist, Amigo, Special, and Great** offering significant price reductions.
 
 6. **Customer Demographics:**
-
    - **Professionals, Skilled Manual Workers, and Managers** are the top customer segments.
    - **50% of customers are married, while 50% are single**.
 
 7. **Recyclable Products:**
-
    - **Tell Tale, Tri-State, High Top, Ebony, and Hermanos** brands contribute the most recyclable products.
-   ![image_anti](https://github.com/Pdeep666/POWERBI/blob/97e2ec1aa62882541eaf224cab637b4a6fcf2a73/RELIANCE_STORE/op1.png)
+   
 ## How to Use This Analysis
 
 - **Optimize Product Offerings**: Focus on high-demand brands while managing return rates.
