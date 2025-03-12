@@ -54,7 +54,7 @@ Reliance Stores need to optimize their sales performance, inventory management, 
 
 7. **Recyclable Products:**
    - **Tell Tale, Tri-State, High Top, Ebony, and Hermanos** brands contribute the most recyclable products.
-   
+   ![image_anti](https://github.com/Pdeep666/POWERBI/blob/bc3139ea38f9b1c6d74f4e8ff0afe357d7a0b2f2/RELIANCE_STORE/op1.png)
 ## How to Use This Analysis
 
 - **Optimize Product Offerings**: Focus on high-demand brands while managing return rates.
