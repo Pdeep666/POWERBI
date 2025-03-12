@@ -3,6 +3,17 @@
 ## Overview
 This project analyzes Amazon sales data using **Power BI** to gain insights into sales performance, profit distribution, and shipping trends across different regions and product categories. The dashboard provides visual representations of key business metrics to support data-driven decision-making.
 
+## Business Problem
+Amazon, as one of the largest e-commerce platforms, deals with vast amounts of sales data across multiple product categories and regions. Understanding sales performance, profitability, and shipping efficiency is critical for making informed business decisions. However, manually analyzing large datasets is time-consuming and inefficient. This project aims to automate sales analysis using **Power BI**, enabling businesses to identify revenue-driving factors, optimize shipping strategies, and improve regional sales performance.
+
+## Objectives
+- Develop an interactive **Power BI** dashboard to visualize Amazon sales data.
+- Analyze sales performance across different **regions, categories, and sub-categories**.
+- Identify **top-selling products** and their contribution to overall revenue.
+- Examine **profitability distribution** across different regions.
+- Evaluate the impact of different **shipping modes** on sales and profits.
+- Provide actionable insights to enhance **business strategies and decision-making**.
+
 ## Features
 - **Sales Performance Analysis**: Tracks revenue and profit across different regions and categories.
 - **Top Selling Sub-Categories**: Identifies the highest revenue-generating product sub-categories.
@@ -37,7 +48,9 @@ This project analyzes Amazon sales data using **Power BI** to gain insights into
 2. **Optimize Regional Strategies:** Target underperforming regions to improve profitability.
 3. **Refine Shipping Strategy:** Evaluate the impact of different shipping modes on sales.
 4. **City-Level Insights:** Use sales trends to optimize marketing and distribution efforts.
+
 ![image_anti](https://github.com/Pdeep666/POWERBI/blob/82403d12ea48d043595d547380fef1d30cbb5e17/AMAZON%20SALES/Screenshot%20(196).png)
+
 ## Future Enhancements
 - **Predictive Sales Analytics** using Machine Learning.
 - **Customer Segmentation Analysis** to tailor marketing strategies.
@@ -47,4 +60,3 @@ Feel free to submit issues and pull requests if you want to contribute to this p
 
 ## License
 This project is licensed under the MIT License.
-
