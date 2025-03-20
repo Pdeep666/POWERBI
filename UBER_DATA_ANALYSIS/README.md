@@ -60,6 +60,7 @@ Uber operates in a highly competitive ride-sharing market where understanding us
 4. **Leverage forecasting visuals** to predict future demand.
 5. **Export insights** for business decision-making.
 ![image_anti](https://github.com/Pdeep666/POWERBI/blob/417411c219f89ef5a43db81d17fff56469474dbe/UBER_DATA_ANALYSIS/dashboard.png)
+![image_anti](https://github.com/Pdeep666/POWERBI/blob/1a85b577ae3f0e1bd6d5b705402e27571b02de10/UBER_DATA_ANALYSIS/trends.png)
 ## Data Preprocessing Statement
 
 - The data was **cleaned in Python** to remove inconsistencies and missing values.
