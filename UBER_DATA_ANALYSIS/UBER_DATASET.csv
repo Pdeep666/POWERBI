@@ -1,0 +1,501 @@
+Ride_ID,Pickup_Location,Dropoff_Location,Date,Time,Distance_km,Fare_Amount,Payment_Type,Passenger_Count,Vehicle_Type,Driver_Rating
+1001,Rajajinagar,Marathahalli,12-02-2025,10:39 PM,11.2,219.48,,3,UberXL,4.6
+1002,Marathahalli,Hebbal,30-03-2025,16:36 PM,18.1,440.56,Cash,4,UberSUV,4.5
+1003,HSR Layout,Hebbal,27-02-2025,10:04 PM,12,302.3,,2,UberSUV,
+1004,HSR Layout,Bellandur,01-02-2025,14:30 AM,15.7,385.34,Cash,2,UberAuto,4
+1005,Hebbal,MG Road,25-02-2025,15:39 AM,10,236.55,PayPal,1,UberX,4.8
+1006,Jayanagar,Whitefield,10-01-2025,9:42 PM,9.1,161.3,Debit Card,3,UberXL,3.6
+1007,Majestic,Rajajinagar,09-02-2025,9:24 PM,4.5,88.75,Debit Card,4,UberSUV,4.8
+1008,Yelahanka,Bellandur,09-02-2025,12:39 PM,8.4,241.61,Debit Card,1,UberAuto,3.9
+1009,Bellandur,Jayanagar,16-02-2025,22:56 AM,6.5,192.5,Cash,1,UberGo,4.7
+1010,BTM Layout,MG Road,30-01-2025,2:48 PM,25,529.78,Cash,3,UberXL,3.8
+1011,Indiranagar,BTM Layout,13-02-2025,16:19 PM,29.9,666.16,Credit Card,1,UberSUV,4.1
+1012,Indiranagar,Rajajinagar,15-02-2025,4:58 AM,24.1,516.49,Credit Card,4,UberSUV,
+1013,Marathahalli,Jayanagar,26-01-2025,15:53 PM,19.3,,Debit Card,3,UberX,4.1
+1014,Yelahanka,Marathahalli,16-03-2025,16:14 AM,16.1,351.36,PayPal,2,UberSUV,4.5
+1015,Majestic,Yelahanka,20-02-2025,20:21 AM,18.5,481.94,UPI,1,UberXL,
+1016,BTM Layout,Electronic City,27-01-2025,6:28 PM,11.1,219.64,,2,UberXL,4.7
+1017,Electronic City,Yelahanka,15-03-2025,16:51 AM,7.7,139.49,Debit Card,1,UberGo,4.9
+1018,Majestic,Yelahanka,25-02-2025,3:59 PM,15.7,430.82,UPI,3,UberGo,4.5
+1019,Jayanagar,Electronic City,02-02-2025,1:50 PM,29.1,657.99,Credit Card,4,UberGo,3.9
+1020,Majestic,Marathahalli,30-01-2025,4:42 AM,24,381.76,Debit Card,4,UberGo,4.3
+1021,Jayanagar,Bellandur,25-03-2025,20:25 AM,30,489.85,Cash,1,UberSUV,3.7
+1022,Jayanagar,Bellandur,06-03-2025,18:40 AM,24.1,590.67,Credit Card,1,UberXL,3.8
+1023,Jayanagar,Electronic City,01-03-2025,12:28 PM,28.4,640.15,PayPal,1,UberSUV,4.7
+1024,Indiranagar,BTM Layout,23-03-2025,11:03 PM,11.1,,PayPal,2,UberXL,4.2
+1025,Bannerghatta Road,Whitefield,18-03-2025,12:23 PM,9.9,150.08,Debit Card,1,UberXL,4.2
+1026,Hebbal,Electronic City,13-02-2025,11:21 PM,8.3,186.21,Debit Card,4,UberXL,4.6
+1027,Rajajinagar,Jayanagar,04-03-2025,19:39 PM,18.8,505.51,Cash,1,UberSUV,4.6
+1028,Jayanagar,MG Road,20-02-2025,19:39 PM,2.8,49.96,PayPal,2,UberSUV,4.3
+1029,Jayanagar,MG Road,22-01-2025,12:15 AM,12.4,362.33,UPI,1,UberXL,4.1
+1030,Rajajinagar,Bellandur,04-01-2025,23:12 AM,7.5,199.29,Credit Card,1,UberSUV,4.2
+1031,Whitefield,Marathahalli,23-01-2025,22:06 PM,18.6,425.52,Credit Card,2,UberGo,4.3
+1032,Bannerghatta Road,Yelahanka,12-02-2025,5:40 AM,14.9,297.61,Debit Card,2,UberX,
+1033,Bellandur,Whitefield,31-01-2025,12:13 AM,26.3,431.28,Debit Card,2,UberAuto,4.4
+1034,Hebbal,Majestic,01-01-2025,7:09 PM,4.2,80.99,Cash,2,UberAuto,3.6
+1035,Whitefield,Electronic City,09-03-2025,3:12 PM,4.5,95.66,Debit Card,2,UberX,3.5
+1036,Electronic City,Hebbal,14-03-2025,20:22 PM,18.5,320.92,Debit Card,3,UberGo,4.2
+1037,BTM Layout,Hebbal,04-02-2025,15:32 PM,16.3,,UPI,2,UberSUV,3.8
+1038,Whitefield,Jayanagar,26-03-2025,1:59 PM,20.7,567.52,,2,UberAuto,4.7
+1039,Rajajinagar,Majestic,25-03-2025,3:59 PM,29.4,608.57,Debit Card,1,UberAuto,4.9
+1040,Bannerghatta Road,Yelahanka,24-02-2025,4:48 AM,16.5,432.32,Debit Card,2,UberGo,
+1041,Marathahalli,BTM Layout,22-02-2025,3:17 AM,29.4,476.18,Debit Card,1,UberAuto,4.5
+1042,Jayanagar,HSR Layout,09-02-2025,11:12 AM,11.6,318.21,UPI,3,UberAuto,4.1
+1043,Hebbal,MG Road,26-03-2025,5:50 PM,2.9,43.91,,4,UberXL,4.2
+1044,HSR Layout,Indiranagar,02-01-2025,21:49 AM,10.2,224.4,UPI,2,UberGo,4.2
+1045,Electronic City,Rajajinagar,05-02-2025,20:42 PM,17.1,344.37,Credit Card,2,UberXL,3.7
+1046,Hebbal,Koramangala,01-03-2025,2:07 PM,22.6,481.82,PayPal,2,UberSUV,3.6
+1047,Marathahalli,Bellandur,20-03-2025,13:45 AM,6.9,,UPI,2,UberGo,4.6
+1048,Hebbal,Indiranagar,19-02-2025,7:41 AM,18,518.25,PayPal,4,UberAuto,3.9
+1049,Bannerghatta Road,Marathahalli,21-01-2025,15:43 PM,6.3,,UPI,2,UberXL,3.9
+1050,MG Road,Yelahanka,29-01-2025,16:52 PM,17.5,471.55,Cash,1,UberX,3.6
+1051,Marathahalli,Bellandur,11-03-2025,4:03 PM,8.9,,Debit Card,1,UberSUV,4.4
+1052,Bannerghatta Road,Rajajinagar,17-02-2025,10:28 AM,6.7,135,Cash,3,UberSUV,5
+1053,Bellandur,Bannerghatta Road,29-01-2025,10:41 AM,22.7,484.6,PayPal,1,UberSUV,4.3
+1054,BTM Layout,Marathahalli,22-01-2025,5:34 AM,19.5,350.98,Debit Card,3,UberAuto,4.5
+1055,Koramangala,Marathahalli,18-03-2025,5:16 AM,23.7,539.82,Cash,4,UberSUV,4.3
+1056,BTM Layout,Indiranagar,22-02-2025,11:10 PM,22.8,382.99,Debit Card,1,UberGo,
+1057,Yelahanka,Bellandur,19-02-2025,21:57 PM,12.3,323.1,Cash,3,UberSUV,3.6
+1058,Indiranagar,BTM Layout,16-03-2025,12:16 AM,19.8,314.6,UPI,4,UberGo,4.1
+1059,Marathahalli,Koramangala,22-02-2025,10:35 PM,4.5,123.83,UPI,3,UberAuto,3.7
+1060,Bellandur,Marathahalli,04-01-2025,8:22 PM,26.6,574.62,,3,UberAuto,4.7
+1061,Bellandur,Majestic,09-03-2025,20:32 PM,28.3,618.7,UPI,1,UberSUV,4
+1062,Whitefield,Indiranagar,08-01-2025,12:41 AM,27.2,501.09,Credit Card,3,UberGo,4
+1063,Majestic,Bannerghatta Road,01-01-2025,12:49 PM,29.1,699.29,PayPal,2,UberXL,5
+1064,Bellandur,Electronic City,16-03-2025,11:04 AM,24.6,691.26,Credit Card,4,UberSUV,3.8
+1065,Marathahalli,Bannerghatta Road,11-01-2025,2:57 PM,9.2,254.04,UPI,2,UberGo,4.1
+1066,MG Road,Yelahanka,21-02-2025,2:25 PM,21,508.08,PayPal,1,UberX,
+1067,Koramangala,Hebbal,13-03-2025,10:56 AM,14.9,257.32,PayPal,4,UberAuto,3.7
+1068,Bannerghatta Road,Koramangala,06-03-2025,21:01 PM,16.2,418.07,Cash,1,UberX,4.9
+1069,BTM Layout,MG Road,20-03-2025,18:18 PM,18.5,421.05,,3,UberSUV,
+1070,Hebbal,Indiranagar,11-02-2025,21:10 PM,24.6,678.1,Credit Card,2,UberXL,
+1071,Bannerghatta Road,Whitefield,02-02-2025,3:35 AM,20.6,590.87,Debit Card,4,UberXL,5
+1072,BTM Layout,Koramangala,23-03-2025,7:08 AM,19.5,552.26,Debit Card,4,UberSUV,4.3
+1073,Electronic City,Koramangala,12-02-2025,3:17 PM,12.6,222.55,,2,UberXL,4.7
+1074,HSR Layout,Rajajinagar,02-03-2025,15:10 AM,20.6,361.12,Cash,4,UberX,3.9
+1075,Hebbal,Jayanagar,10-02-2025,9:18 AM,10.8,224.52,PayPal,3,UberSUV,3.9
+1076,Hebbal,Yelahanka,16-03-2025,8:00 PM,9.3,192.34,UPI,2,UberX,3.7
+1077,Indiranagar,Marathahalli,12-02-2025,12:26 AM,21.6,584.06,UPI,4,UberX,3.8
+1078,MG Road,Bellandur,06-01-2025,2:54 AM,11.8,308.79,Credit Card,2,UberXL,4.2
+1079,Majestic,Electronic City,16-02-2025,20:53 AM,6.5,159.99,UPI,4,UberGo,3.5
+1080,Indiranagar,Koramangala,21-02-2025,1:05 PM,29.5,740.94,Credit Card,3,UberXL,3.5
+1081,BTM Layout,MG Road,12-03-2025,21:59 PM,2.1,38.35,UPI,4,UberX,4.7
+1082,Whitefield,Jayanagar,20-02-2025,23:12 PM,26.1,460.9,Cash,4,UberAuto,4.7
+1083,Marathahalli,MG Road,28-03-2025,19:59 PM,16.9,330.47,Debit Card,2,UberXL,4.3
+1084,Indiranagar,Marathahalli,01-03-2025,18:25 PM,19.7,327.93,,2,UberXL,4.3
+1085,Electronic City,Yelahanka,29-01-2025,15:07 PM,3.6,54.06,PayPal,3,UberXL,4.6
+1086,Yelahanka,HSR Layout,14-01-2025,1:07 AM,11.8,278.9,,1,UberSUV,4.3
+1087,Rajajinagar,BTM Layout,18-03-2025,11:47 PM,19.9,561.99,PayPal,4,UberX,4.2
+1088,Hebbal,Yelahanka,12-01-2025,8:23 AM,6.1,100.27,Cash,4,UberSUV,3.5
+1089,HSR Layout,Marathahalli,13-01-2025,10:29 AM,11,315.78,Cash,4,UberGo,4.9
+1090,Rajajinagar,Whitefield,24-02-2025,2:05 AM,23,629.58,Debit Card,4,UberGo,4.7
+1091,Indiranagar,Marathahalli,27-02-2025,20:11 AM,23.4,655.62,UPI,4,UberXL,4.4
+1092,MG Road,Bannerghatta Road,28-01-2025,9:43 AM,4.5,91.8,Cash,1,UberSUV,4.1
+1093,Hebbal,MG Road,30-03-2025,8:23 AM,13.8,406.1,Debit Card,4,UberXL,3.7
+1094,Yelahanka,Hebbal,05-01-2025,23:08 AM,3,47.92,UPI,4,UberAuto,3.8
+1095,Bannerghatta Road,Indiranagar,15-03-2025,13:47 PM,13,354.18,UPI,1,UberSUV,
+1096,HSR Layout,Bannerghatta Road,22-01-2025,20:15 AM,16.8,413.85,Cash,2,UberGo,4.3
+1097,Bannerghatta Road,Yelahanka,08-02-2025,10:44 PM,19.3,457.16,Cash,3,UberGo,4.8
+1098,Majestic,Marathahalli,11-03-2025,3:23 PM,23.5,558.03,Debit Card,1,UberX,4.7
+1099,Yelahanka,Majestic,25-02-2025,9:40 PM,15.4,245.93,Debit Card,2,UberGo,4.8
+1100,HSR Layout,Whitefield,18-01-2025,15:05 PM,26.5,744.35,Cash,2,UberAuto,4.7
+1101,HSR Layout,Jayanagar,23-01-2025,21:14 PM,7.1,123.95,Cash,3,UberAuto,4.5
+1102,Indiranagar,Majestic,11-02-2025,14:42 PM,24.8,612.1,Credit Card,1,UberX,3.9
+1103,Bellandur,Marathahalli,11-03-2025,14:47 PM,16.7,277.34,Debit Card,2,UberAuto,4.9
+1104,Hebbal,Koramangala,18-01-2025,21:51 PM,15,269.85,,3,UberXL,
+1105,MG Road,Jayanagar,19-02-2025,5:37 AM,25.2,529.39,Credit Card,4,UberX,4.6
+1106,BTM Layout,Bellandur,28-02-2025,20:12 AM,5.1,145.52,Cash,3,UberGo,
+1107,Bellandur,Whitefield,10-03-2025,1:06 AM,10,192.03,Credit Card,2,UberX,4.7
+1108,MG Road,Majestic,27-02-2025,13:29 PM,13.5,398.35,Cash,1,UberX,4.3
+1109,MG Road,Koramangala,27-02-2025,9:01 AM,21.3,571.74,Credit Card,3,UberSUV,4.9
+1110,Whitefield,Indiranagar,24-02-2025,19:43 PM,6.4,178.83,UPI,1,UberSUV,3.5
+1111,Rajajinagar,Indiranagar,31-01-2025,8:18 AM,2.4,48.31,Debit Card,2,UberAuto,4.6
+1112,Yelahanka,Bannerghatta Road,23-03-2025,7:14 PM,28.4,694.52,Cash,3,UberAuto,4.5
+1113,Indiranagar,Majestic,04-01-2025,3:15 AM,13,263.25,Credit Card,4,UberAuto,4.2
+1114,Hebbal,BTM Layout,17-01-2025,15:08 PM,9.3,,Cash,3,UberAuto,
+1115,Koramangala,MG Road,18-03-2025,11:05 AM,15,357.56,Credit Card,4,UberGo,4.3
+1116,Rajajinagar,Electronic City,10-01-2025,5:13 PM,10.2,182.53,Cash,2,UberGo,4.1
+1117,Electronic City,MG Road,27-03-2025,9:05 AM,29.5,538.66,,4,UberX,
+1118,Whitefield,Marathahalli,08-02-2025,9:57 PM,22.4,619.15,,4,UberSUV,3.7
+1119,Jayanagar,Bellandur,29-03-2025,19:22 AM,22.1,649.75,Debit Card,2,UberAuto,4.2
+1120,Rajajinagar,Jayanagar,18-01-2025,20:51 PM,18.8,433.55,,2,UberAuto,4.8
+1121,Jayanagar,BTM Layout,20-03-2025,12:37 PM,16,468.34,UPI,2,UberGo,4.2
+1122,Whitefield,MG Road,15-02-2025,15:49 PM,24.6,548.21,Debit Card,3,UberSUV,4.2
+1123,Koramangala,Whitefield,10-01-2025,14:48 AM,28.9,475.73,,4,UberSUV,4.5
+1124,Hebbal,Jayanagar,09-03-2025,15:25 PM,13.3,376.72,Debit Card,2,UberX,5
+1125,Yelahanka,Whitefield,10-03-2025,14:26 PM,19.6,469.91,,1,UberXL,
+1126,Koramangala,MG Road,25-03-2025,2:29 PM,17.6,483.01,Credit Card,1,UberSUV,3.8
+1127,MG Road,Whitefield,17-02-2025,13:05 PM,6.8,103.82,UPI,3,UberX,4.6
+1128,Majestic,Koramangala,16-01-2025,18:28 AM,17.8,281.63,Debit Card,4,UberGo,3.6
+1129,Yelahanka,Electronic City,04-03-2025,10:12 AM,11.3,306.37,Cash,4,UberGo,
+1130,MG Road,Majestic,18-02-2025,22:48 AM,25.5,,Debit Card,4,UberGo,4.2
+1131,Jayanagar,Yelahanka,07-01-2025,1:13 AM,5.1,94.05,PayPal,3,UberAuto,4.6
+1132,Yelahanka,Whitefield,13-02-2025,19:13 PM,24.4,646.73,PayPal,1,UberAuto,3.7
+1133,Majestic,Hebbal,06-01-2025,8:25 PM,6.4,183.82,Debit Card,3,UberXL,4.6
+1134,Rajajinagar,Indiranagar,04-01-2025,21:07 AM,21.9,370.37,UPI,1,UberSUV,3.6
+1135,Hebbal,Rajajinagar,08-01-2025,7:32 PM,14.3,235.69,UPI,2,UberX,4.5
+1136,MG Road,Rajajinagar,08-02-2025,12:53 PM,28.7,787.67,UPI,2,UberGo,
+1137,BTM Layout,Majestic,21-02-2025,23:23 PM,5.5,88.25,Credit Card,2,UberAuto,3.7
+1138,Bellandur,Whitefield,01-01-2025,10:37 PM,13.1,343.12,UPI,1,UberGo,4.4
+1139,Jayanagar,Bellandur,26-02-2025,18:44 AM,23.8,644.8,Debit Card,4,UberGo,4.5
+1140,Rajajinagar,MG Road,25-03-2025,16:49 PM,22.3,433.55,Debit Card,3,UberSUV,5
+1141,Majestic,Bannerghatta Road,24-01-2025,14:13 PM,26.5,642.51,UPI,1,UberSUV,4.4
+1142,Whitefield,Marathahalli,15-01-2025,10:35 AM,5.3,,Debit Card,1,UberAuto,3.6
+1143,HSR Layout,Electronic City,15-01-2025,16:05 AM,29.9,582.09,Debit Card,1,UberGo,4.4
+1144,Koramangala,Hebbal,02-02-2025,22:37 AM,5.8,98.06,PayPal,1,UberAuto,3.9
+1145,Marathahalli,Jayanagar,13-02-2025,8:44 AM,22.4,340.8,Debit Card,3,UberXL,3.7
+1146,Yelahanka,Electronic City,23-03-2025,7:41 PM,8.4,242.18,Debit Card,4,UberAuto,4.8
+1147,MG Road,Rajajinagar,11-01-2025,4:29 AM,29.8,562.26,Cash,4,UberGo,4.4
+1148,Electronic City,Bannerghatta Road,03-03-2025,8:30 AM,14,395.67,Credit Card,2,UberSUV,4.3
+1149,Koramangala,Bannerghatta Road,03-03-2025,13:31 AM,24.3,534.13,Credit Card,1,UberGo,4.5
+1150,Indiranagar,BTM Layout,17-01-2025,21:16 PM,26.5,436.32,Cash,2,UberX,4.2
+1151,Electronic City,BTM Layout,24-02-2025,16:10 AM,15.3,243.02,,3,UberGo,4.3
+1152,Rajajinagar,Bannerghatta Road,15-03-2025,16:59 AM,8.9,167.62,Cash,1,UberX,
+1153,Jayanagar,Koramangala,29-01-2025,12:38 AM,2.9,,Cash,3,UberAuto,4.6
+1154,Bannerghatta Road,Indiranagar,23-02-2025,20:41 AM,7.5,124.43,UPI,3,UberAuto,3.8
+1155,Electronic City,Marathahalli,14-01-2025,7:58 AM,27.4,541.93,Credit Card,3,UberX,3.6
+1156,Marathahalli,Yelahanka,03-02-2025,15:44 PM,23.3,419.52,Credit Card,4,UberX,3.9
+1157,Bannerghatta Road,Electronic City,29-01-2025,7:37 AM,26.4,613.41,Cash,3,UberGo,4.3
+1158,Yelahanka,Indiranagar,02-02-2025,20:18 AM,11.3,220.32,PayPal,4,UberXL,4.1
+1159,Electronic City,Indiranagar,28-01-2025,23:33 AM,17.3,491.91,PayPal,3,UberSUV,3.9
+1160,Indiranagar,Rajajinagar,01-02-2025,6:14 AM,23.5,660.43,,1,UberAuto,4.5
+1161,Indiranagar,Marathahalli,08-02-2025,1:43 AM,22.9,,Cash,1,UberX,4
+1162,MG Road,Rajajinagar,29-03-2025,12:45 AM,15.6,236.22,Cash,3,UberXL,4.6
+1163,Bannerghatta Road,Jayanagar,04-02-2025,15:09 PM,8.3,227.77,,3,UberX,4.7
+1164,Rajajinagar,Jayanagar,12-03-2025,23:36 AM,19.2,391.68,Credit Card,4,UberXL,4.9
+1165,BTM Layout,Yelahanka,16-03-2025,23:40 PM,18.6,518.16,,1,UberAuto,
+1166,Koramangala,Jayanagar,19-03-2025,20:16 PM,10.2,258.48,PayPal,2,UberGo,4.3
+1167,Indiranagar,Marathahalli,22-01-2025,3:26 AM,6.5,149.94,Credit Card,1,UberSUV,4.2
+1168,Bellandur,Koramangala,29-01-2025,11:48 AM,4.6,113.25,,4,UberAuto,4.8
+1169,MG Road,Yelahanka,19-01-2025,22:13 PM,19.2,342.35,PayPal,1,UberAuto,3.7
+1170,Bellandur,BTM Layout,14-03-2025,5:41 AM,26.8,797.01,PayPal,4,UberGo,3.9
+1171,Whitefield,Yelahanka,24-02-2025,10:00 PM,3.6,,Cash,1,UberXL,4.8
+1172,Bannerghatta Road,Electronic City,16-02-2025,3:13 AM,28.2,549.73,Debit Card,4,UberSUV,4.8
+1173,Whitefield,HSR Layout,05-02-2025,9:12 PM,3.1,85.92,Debit Card,3,UberAuto,
+1174,Yelahanka,Majestic,21-02-2025,20:38 PM,3.4,80.31,Credit Card,3,UberX,3.9
+1175,Rajajinagar,Bellandur,23-03-2025,17:53 AM,23.1,680.8,Credit Card,2,UberSUV,4.1
+1176,Jayanagar,Indiranagar,12-02-2025,16:02 AM,20.9,490.3,Debit Card,2,UberSUV,3.7
+1177,MG Road,Yelahanka,03-01-2025,1:55 PM,21,465.08,Credit Card,1,UberXL,4.9
+1178,MG Road,HSR Layout,22-01-2025,6:05 AM,9.8,170.54,,1,UberSUV,4.4
+1179,Whitefield,Hebbal,28-03-2025,22:32 PM,25.6,561.23,Cash,1,UberX,4.3
+1180,BTM Layout,Rajajinagar,05-02-2025,23:18 AM,18.5,457.82,UPI,1,UberSUV,4.9
+1181,BTM Layout,Marathahalli,20-03-2025,6:02 PM,25.6,394.11,Cash,2,UberGo,4.4
+1182,BTM Layout,Marathahalli,08-03-2025,21:21 AM,9.9,149.47,PayPal,1,UberXL,4.7
+1183,Electronic City,MG Road,09-03-2025,19:34 AM,5.6,85.79,Credit Card,2,UberAuto,5
+1184,Koramangala,Majestic,03-02-2025,23:37 AM,14.6,418.4,Credit Card,3,UberSUV,4
+1185,Majestic,Indiranagar,27-03-2025,11:36 PM,4.6,82.27,PayPal,2,UberAuto,4.9
+1186,Rajajinagar,BTM Layout,27-03-2025,11:21 PM,15.2,354.34,UPI,3,UberAuto,4.1
+1187,Bannerghatta Road,Indiranagar,07-03-2025,17:33 AM,7.8,233.05,Debit Card,3,UberXL,4.2
+1188,HSR Layout,Rajajinagar,22-03-2025,9:28 AM,24.2,531.57,UPI,3,UberSUV,4.9
+1189,BTM Layout,Yelahanka,20-01-2025,3:57 AM,5.1,77.48,,4,UberGo,3.8
+1190,Hebbal,BTM Layout,19-01-2025,21:40 PM,13.3,360.19,UPI,3,UberXL,4.7
+1191,Indiranagar,Marathahalli,07-01-2025,23:41 AM,29.9,800.73,Cash,4,UberAuto,4.9
+1192,BTM Layout,Hebbal,31-01-2025,8:13 AM,17.4,319.7,Credit Card,3,UberGo,4.3
+1193,Electronic City,BTM Layout,28-02-2025,18:20 PM,21.5,391.39,PayPal,2,UberXL,4.5
+1194,Electronic City,MG Road,30-03-2025,1:39 PM,7.2,,Cash,1,UberX,3.9
+1195,Electronic City,Majestic,15-01-2025,16:34 PM,9.4,173.05,Credit Card,1,UberGo,3.7
+1196,Indiranagar,Whitefield,01-03-2025,19:31 PM,4.2,105.18,PayPal,2,UberXL,4.3
+1197,Hebbal,MG Road,26-02-2025,1:21 AM,16.8,298.25,UPI,3,UberSUV,4.2
+1198,Majestic,Yelahanka,08-02-2025,19:17 PM,25.1,750.55,,3,UberXL,4.8
+1199,Koramangala,Majestic,19-02-2025,14:53 PM,21.8,597.09,UPI,4,UberAuto,4
+1200,Koramangala,Indiranagar,24-02-2025,9:57 PM,24.8,496.48,Debit Card,1,UberSUV,
+1201,Rajajinagar,Whitefield,25-03-2025,1:03 AM,25.3,474.43,Debit Card,2,UberAuto,
+1202,Electronic City,Rajajinagar,24-02-2025,6:50 PM,7.1,180.91,Credit Card,3,UberGo,3.6
+1203,Rajajinagar,Majestic,17-02-2025,1:14 PM,17,466.11,Debit Card,3,UberGo,4.5
+1204,HSR Layout,Whitefield,06-03-2025,20:43 PM,5.4,129.46,Debit Card,1,UberAuto,4.1
+1205,BTM Layout,Koramangala,16-03-2025,12:44 AM,16.1,482.92,UPI,1,UberAuto,3.6
+1206,Jayanagar,Bannerghatta Road,20-01-2025,21:40 PM,12.7,199.88,Debit Card,1,UberAuto,3.8
+1207,Rajajinagar,Whitefield,12-01-2025,10:04 PM,17.6,276.51,UPI,3,UberAuto,
+1208,Electronic City,BTM Layout,02-03-2025,7:00 AM,18.5,324.41,UPI,4,UberAuto,4.5
+1209,Whitefield,BTM Layout,10-01-2025,22:29 AM,12.4,188.95,Cash,1,UberXL,3.7
+1210,Bannerghatta Road,Bellandur,12-03-2025,3:03 PM,5.9,133.95,Cash,4,UberSUV,4.1
+1211,MG Road,Jayanagar,02-02-2025,13:56 PM,18.8,348.94,Credit Card,3,UberSUV,3.7
+1212,Yelahanka,Koramangala,28-03-2025,11:07 AM,3.8,57.56,,1,UberGo,4.5
+1213,Marathahalli,Indiranagar,08-01-2025,12:13 PM,24.5,609.16,Credit Card,3,UberAuto,3.7
+1214,Electronic City,MG Road,11-01-2025,12:54 AM,10.5,217.85,UPI,2,UberX,4.6
+1215,Jayanagar,BTM Layout,24-01-2025,4:55 AM,11.9,207.53,Cash,1,UberSUV,4.4
+1216,Bellandur,Indiranagar,15-03-2025,18:13 PM,26.7,742.2,Cash,1,UberX,4.6
+1217,BTM Layout,HSR Layout,16-01-2025,23:17 PM,16.6,256.97,,4,UberXL,3.7
+1218,HSR Layout,BTM Layout,21-02-2025,22:48 PM,29.4,700.31,UPI,1,UberX,4.2
+1219,Koramangala,BTM Layout,16-02-2025,5:56 PM,6.1,158.67,PayPal,2,UberXL,4.7
+1220,Bannerghatta Road,Majestic,17-01-2025,1:49 AM,2,35.43,Debit Card,2,UberX,3.5
+1221,Electronic City,Hebbal,25-03-2025,18:53 PM,17.2,,Credit Card,2,UberX,3.6
+1222,BTM Layout,Bannerghatta Road,06-01-2025,15:18 AM,9.8,196.31,Cash,1,UberAuto,4.6
+1223,Jayanagar,HSR Layout,28-01-2025,17:11 AM,14.4,,Credit Card,1,UberX,3.6
+1224,Yelahanka,Marathahalli,20-02-2025,19:10 AM,24.8,520.43,,2,UberGo,4.4
+1225,Indiranagar,Marathahalli,11-01-2025,19:10 PM,11.9,224.38,UPI,2,UberGo,4.7
+1226,Indiranagar,Majestic,11-03-2025,14:03 PM,8.1,126.08,,2,UberGo,3.7
+1227,Majestic,Koramangala,05-01-2025,4:54 AM,14,350.15,Debit Card,3,UberX,4.8
+1228,Yelahanka,Electronic City,31-01-2025,21:04 PM,17.2,474.35,Debit Card,3,UberAuto,
+1229,Bannerghatta Road,Electronic City,09-03-2025,14:38 AM,10.5,170.59,Cash,1,UberSUV,3.7
+1230,HSR Layout,BTM Layout,08-03-2025,1:43 AM,3.3,71.73,PayPal,4,UberXL,3.8
+1231,Jayanagar,Hebbal,27-02-2025,4:38 PM,15.4,379.34,Credit Card,3,UberXL,4.9
+1232,Hebbal,Indiranagar,09-03-2025,14:26 PM,6,152.16,,1,UberAuto,4
+1233,Hebbal,Electronic City,30-01-2025,23:03 AM,19.9,479.33,PayPal,4,UberAuto,4.5
+1234,MG Road,Whitefield,19-02-2025,17:46 PM,6.4,155.06,PayPal,3,UberSUV,3.8
+1235,Majestic,MG Road,06-01-2025,13:47 AM,9.7,201.89,PayPal,4,UberGo,3.7
+1236,Yelahanka,Indiranagar,14-03-2025,10:13 AM,15.9,389.54,UPI,1,UberSUV,3.6
+1237,Electronic City,Marathahalli,12-01-2025,12:54 PM,23.8,507.35,,3,UberAuto,3.9
+1238,Whitefield,Indiranagar,12-02-2025,18:38 AM,10.4,261.6,PayPal,2,UberGo,4.7
+1239,Bannerghatta Road,Rajajinagar,26-02-2025,1:35 AM,11.8,298.65,Debit Card,4,UberAuto,3.7
+1240,MG Road,Whitefield,07-02-2025,9:47 AM,23.9,497.36,,2,UberGo,3.7
+1241,Electronic City,Majestic,24-02-2025,3:34 PM,12.4,301.24,PayPal,3,UberAuto,4.5
+1242,Jayanagar,Indiranagar,16-01-2025,19:31 AM,2.2,36.11,UPI,1,UberAuto,3.6
+1243,Hebbal,HSR Layout,02-02-2025,2:50 PM,19.9,388.71,Debit Card,2,UberAuto,4.8
+1244,Jayanagar,Majestic,26-01-2025,18:33 AM,10.7,163.42,UPI,4,UberAuto,4.3
+1245,Koramangala,Electronic City,04-03-2025,9:39 PM,7.8,213.72,Cash,3,UberSUV,
+1246,Majestic,Hebbal,03-01-2025,16:35 PM,7.5,180.65,Debit Card,1,UberSUV,3.6
+1247,Rajajinagar,Bellandur,22-03-2025,10:15 PM,16.2,367.73,Credit Card,2,UberXL,4.9
+1248,Rajajinagar,BTM Layout,13-02-2025,1:28 PM,19,358.63,,4,UberGo,
+1249,Yelahanka,Bellandur,22-02-2025,23:43 PM,25.6,396.33,Debit Card,2,UberAuto,4.9
+1250,Indiranagar,Hebbal,15-01-2025,18:26 AM,20.8,375.11,Debit Card,3,UberXL,3.9
+1251,Jayanagar,Yelahanka,08-01-2025,17:17 PM,19.3,453.62,Debit Card,3,UberSUV,4.2
+1252,Hebbal,Jayanagar,16-01-2025,8:45 AM,21.6,577.23,Cash,4,UberX,4.3
+1253,Hebbal,Majestic,04-03-2025,21:23 PM,13.4,398.07,PayPal,4,UberAuto,4.7
+1254,HSR Layout,Yelahanka,31-03-2025,5:00 AM,10.5,305.27,PayPal,2,UberX,4.6
+1255,Indiranagar,Koramangala,07-01-2025,2:02 PM,3.9,70.99,PayPal,4,UberX,3.9
+1256,BTM Layout,Electronic City,14-02-2025,3:23 PM,10.6,245.25,UPI,3,UberXL,4.6
+1257,MG Road,Koramangala,30-01-2025,21:29 AM,3.9,97.82,PayPal,2,UberSUV,4.9
+1258,Bellandur,BTM Layout,23-02-2025,5:51 AM,2.9,64.46,UPI,3,UberAuto,4.7
+1259,Hebbal,HSR Layout,02-02-2025,2:00 AM,29.7,599.73,Debit Card,1,UberAuto,
+1260,Koramangala,Bannerghatta Road,04-03-2025,18:43 PM,19.9,393.49,Debit Card,1,UberSUV,4.4
+1261,Jayanagar,Majestic,21-02-2025,8:20 PM,15.3,239.61,UPI,2,UberSUV,
+1262,Yelahanka,Electronic City,31-01-2025,20:29 AM,9.5,168.77,Credit Card,1,UberAuto,4.6
+1263,HSR Layout,Marathahalli,27-01-2025,16:32 AM,3,78.39,UPI,4,UberXL,4.2
+1264,Jayanagar,Bannerghatta Road,18-01-2025,10:51 AM,21.4,391.68,PayPal,3,UberSUV,4.1
+1265,Rajajinagar,Hebbal,25-01-2025,12:33 AM,2.4,57.51,PayPal,4,UberSUV,3.8
+1266,Marathahalli,Majestic,25-01-2025,12:23 AM,29.6,546.62,PayPal,4,UberXL,4.9
+1267,Yelahanka,Indiranagar,08-01-2025,17:58 PM,26.7,726.24,PayPal,3,UberSUV,4.6
+1268,Yelahanka,HSR Layout,16-01-2025,22:51 AM,3.4,71.97,Cash,3,UberAuto,4.7
+1269,Rajajinagar,Whitefield,22-03-2025,12:04 AM,15.8,288.74,Debit Card,4,UberX,4.7
+1270,Hebbal,Yelahanka,12-03-2025,18:22 AM,24,625.68,Cash,1,UberAuto,
+1271,Hebbal,Bellandur,18-03-2025,7:22 AM,28.2,472.69,Credit Card,1,UberSUV,4.3
+1272,Hebbal,Whitefield,11-03-2025,23:55 AM,10,195.86,Debit Card,4,UberGo,5
+1273,Jayanagar,Whitefield,28-03-2025,14:36 AM,4.8,92.44,PayPal,4,UberXL,
+1274,Koramangala,Bellandur,25-01-2025,16:45 PM,24.7,454.68,UPI,1,UberAuto,4.5
+1275,Rajajinagar,Koramangala,26-03-2025,8:26 PM,26.2,638.9,Debit Card,1,UberSUV,4.9
+1276,HSR Layout,Whitefield,31-03-2025,21:20 PM,14.6,225.5,PayPal,2,UberAuto,4.4
+1277,Jayanagar,Indiranagar,08-01-2025,5:52 PM,17.7,322.19,Debit Card,3,UberAuto,4.1
+1278,Indiranagar,BTM Layout,09-01-2025,20:21 PM,19.2,306.62,Debit Card,1,UberX,4.3
+1279,Whitefield,Majestic,23-02-2025,23:05 PM,23.8,464.84,UPI,2,UberXL,4
+1280,Yelahanka,Majestic,05-02-2025,13:47 PM,9.7,204.16,Cash,3,UberAuto,3.9
+1281,HSR Layout,Whitefield,05-02-2025,2:21 PM,11.5,330.45,UPI,3,UberX,3.7
+1282,Jayanagar,Electronic City,02-01-2025,7:13 AM,24,368.7,Credit Card,3,UberAuto,4.5
+1283,Bellandur,Indiranagar,28-02-2025,1:07 PM,18.9,560.24,Cash,4,UberGo,3.6
+1284,Hebbal,HSR Layout,01-01-2025,17:26 PM,15.7,337.43,Credit Card,3,UberGo,4.1
+1285,Koramangala,HSR Layout,26-03-2025,1:45 AM,2.4,64.32,PayPal,4,UberX,4.2
+1286,Yelahanka,Hebbal,25-02-2025,14:55 AM,16,278.34,Debit Card,3,UberGo,3.6
+1287,Jayanagar,Majestic,11-03-2025,8:11 AM,14.1,310.97,PayPal,2,UberAuto,4.2
+1288,Bellandur,Electronic City,08-03-2025,16:48 PM,29.4,663.23,UPI,3,UberX,3.6
+1289,Hebbal,Majestic,16-01-2025,12:06 PM,28.3,826.57,Cash,3,UberGo,4
+1290,Hebbal,Rajajinagar,28-02-2025,16:21 PM,13.9,,UPI,3,UberX,4.8
+1291,Majestic,Bellandur,28-01-2025,20:25 PM,12.1,249.87,UPI,1,UberXL,4.2
+1292,Whitefield,Rajajinagar,13-03-2025,19:32 AM,20.7,331.48,PayPal,2,UberGo,4.3
+1293,Majestic,MG Road,09-01-2025,11:44 PM,16.2,477.96,PayPal,1,UberSUV,4.9
+1294,Jayanagar,Bannerghatta Road,21-02-2025,20:49 AM,10.5,251.23,Debit Card,4,UberXL,4.6
+1295,Marathahalli,Yelahanka,17-03-2025,18:16 AM,11.1,196.4,,1,UberAuto,4.4
+1296,Koramangala,Indiranagar,03-01-2025,8:43 AM,14.3,294.98,Credit Card,4,UberSUV,
+1297,Majestic,Electronic City,20-01-2025,16:57 AM,28.6,802.87,PayPal,1,UberSUV,
+1298,HSR Layout,Bannerghatta Road,12-02-2025,6:13 PM,28.8,503.63,Credit Card,3,UberAuto,4.3
+1299,HSR Layout,Jayanagar,18-03-2025,13:43 AM,13.2,361.77,Cash,1,UberX,4.1
+1300,Rajajinagar,Electronic City,25-01-2025,14:16 PM,8.1,170.57,Cash,4,UberAuto,4.2
+1301,MG Road,Indiranagar,20-03-2025,15:02 PM,22.3,580.94,Debit Card,3,UberAuto,3.8
+1302,Majestic,Marathahalli,31-01-2025,9:41 PM,8.8,210.62,,2,UberXL,4
+1303,Marathahalli,Bellandur,30-01-2025,8:52 AM,27.2,714.31,PayPal,2,UberXL,4.8
+1304,Jayanagar,HSR Layout,15-03-2025,17:49 PM,16.9,413.43,Debit Card,4,UberX,4.1
+1305,Bellandur,Indiranagar,23-03-2025,22:09 AM,8.4,177.04,,2,UberXL,3.6
+1306,Bannerghatta Road,Rajajinagar,22-02-2025,12:22 PM,28.1,667.28,PayPal,1,UberX,4.9
+1307,Marathahalli,MG Road,30-01-2025,5:33 PM,28.6,470.37,UPI,3,UberSUV,4.4
+1308,Hebbal,BTM Layout,03-01-2025,22:27 PM,4.8,,UPI,1,UberXL,4.6
+1309,HSR Layout,Marathahalli,23-03-2025,22:10 PM,6.1,112.56,Debit Card,4,UberXL,3.7
+1310,Marathahalli,Indiranagar,20-01-2025,20:39 PM,29,543.86,,1,UberX,4.1
+1311,Koramangala,Yelahanka,01-03-2025,17:42 AM,27.6,711.39,UPI,4,UberX,4.9
+1312,Yelahanka,BTM Layout,24-01-2025,23:00 AM,5.2,110.79,UPI,2,UberGo,4.1
+1313,Bellandur,Indiranagar,09-03-2025,7:22 AM,25.3,582.65,Cash,3,UberGo,
+1314,Hebbal,Rajajinagar,28-03-2025,17:56 AM,28.9,790.74,PayPal,3,UberX,4.3
+1315,Majestic,Bellandur,27-01-2025,14:42 PM,28.4,584.73,PayPal,4,UberAuto,3.9
+1316,Rajajinagar,Koramangala,02-02-2025,15:51 PM,15.1,344.2,Credit Card,3,UberX,4.4
+1317,Indiranagar,Hebbal,29-01-2025,12:03 AM,10,286.68,Credit Card,4,UberX,4.6
+1318,Yelahanka,Hebbal,24-02-2025,15:33 AM,27.6,,UPI,4,UberX,4
+1319,Electronic City,Indiranagar,06-03-2025,8:24 AM,26.5,468.58,UPI,2,UberXL,4.2
+1320,Indiranagar,Yelahanka,13-02-2025,9:27 PM,14.9,362.22,Debit Card,4,UberXL,4.6
+1321,Yelahanka,Majestic,31-03-2025,2:37 PM,18,423.78,Debit Card,4,UberAuto,4.2
+1322,Yelahanka,Majestic,04-01-2025,12:05 PM,28.3,829.74,PayPal,2,UberXL,5
+1323,MG Road,Bellandur,09-02-2025,1:53 PM,5.7,149.9,UPI,3,UberXL,3.7
+1324,MG Road,Bellandur,31-03-2025,6:01 AM,14.4,355.96,UPI,4,UberXL,3.7
+1325,Marathahalli,Bellandur,23-02-2025,3:32 AM,19.6,332.27,UPI,4,UberAuto,4.6
+1326,Majestic,Yelahanka,08-03-2025,4:26 AM,21.4,324.61,UPI,1,UberX,4.6
+1327,Yelahanka,Electronic City,22-03-2025,2:58 PM,10.9,242.47,PayPal,2,UberGo,3.8
+1328,MG Road,Electronic City,19-03-2025,6:25 PM,5.2,153.19,Debit Card,1,UberX,4.7
+1329,Bannerghatta Road,Bellandur,24-01-2025,9:44 AM,11.6,216.44,Debit Card,2,UberSUV,4.5
+1330,Yelahanka,Indiranagar,03-02-2025,8:58 PM,8.8,221.76,,4,UberGo,4.9
+1331,Indiranagar,Hebbal,12-02-2025,2:30 PM,26.7,534.96,PayPal,3,UberSUV,4.2
+1332,Rajajinagar,Koramangala,11-01-2025,17:10 PM,5.2,152.67,PayPal,1,UberSUV,4.8
+1333,Electronic City,Whitefield,02-01-2025,17:48 AM,2.6,58.14,UPI,2,UberGo,3.5
+1334,Yelahanka,HSR Layout,14-02-2025,21:08 PM,20.2,496.31,Credit Card,2,UberSUV,4
+1335,Bannerghatta Road,Whitefield,09-01-2025,4:49 PM,26.2,481.64,Cash,2,UberX,4.5
+1336,Bannerghatta Road,BTM Layout,31-03-2025,20:34 PM,9.9,217.26,Debit Card,2,UberSUV,4.9
+1337,Yelahanka,HSR Layout,20-02-2025,22:25 AM,3.8,92.5,Debit Card,3,UberSUV,4
+1338,Bellandur,BTM Layout,20-01-2025,13:48 PM,12.3,253.24,Cash,4,UberSUV,3.8
+1339,Jayanagar,Koramangala,30-01-2025,21:16 AM,11.4,280.52,Debit Card,2,UberAuto,3.7
+1340,Majestic,Hebbal,15-01-2025,7:16 PM,22.1,582.1,PayPal,3,UberX,4.1
+1341,MG Road,HSR Layout,15-02-2025,23:02 PM,13.5,250.66,Credit Card,2,UberX,4.4
+1342,Indiranagar,Rajajinagar,16-02-2025,2:38 PM,26.8,654.76,UPI,2,UberSUV,4.4
+1343,Rajajinagar,Indiranagar,13-03-2025,3:16 AM,27.3,759.24,Debit Card,4,UberGo,3.6
+1344,Bannerghatta Road,MG Road,30-01-2025,2:28 PM,10.3,174.38,Debit Card,2,UberXL,
+1345,Majestic,Hebbal,25-03-2025,2:19 PM,26.4,591.25,Credit Card,1,UberGo,4.1
+1346,Bannerghatta Road,Rajajinagar,15-03-2025,6:20 PM,8.7,218.51,Cash,2,UberGo,3.7
+1347,Jayanagar,MG Road,12-01-2025,7:57 AM,7.3,172.32,Credit Card,3,UberGo,4.7
+1348,Yelahanka,HSR Layout,01-03-2025,19:05 AM,22.2,590.28,UPI,4,UberAuto,3.6
+1349,Indiranagar,Bannerghatta Road,04-03-2025,5:11 AM,5.2,79.54,Debit Card,1,UberAuto,3.8
+1350,Bellandur,HSR Layout,04-03-2025,22:22 AM,10.8,,Credit Card,4,UberXL,
+1351,Majestic,Bannerghatta Road,04-02-2025,1:30 PM,13.7,332.16,Debit Card,4,UberX,4.2
+1352,Yelahanka,Bannerghatta Road,18-03-2025,8:16 PM,2.4,48.71,Cash,2,UberSUV,4.1
+1353,Rajajinagar,Whitefield,26-01-2025,1:55 AM,16.8,301.12,UPI,4,UberGo,4.6
+1354,Rajajinagar,Bannerghatta Road,24-02-2025,23:56 AM,10.5,208.9,Cash,3,UberGo,
+1355,Koramangala,HSR Layout,17-03-2025,5:25 PM,5.8,104.17,Debit Card,3,UberAuto,3.8
+1356,Bellandur,BTM Layout,09-02-2025,3:57 PM,6.1,180.73,UPI,1,UberAuto,4.7
+1357,Koramangala,Marathahalli,16-02-2025,19:03 AM,22.4,461.34,PayPal,1,UberGo,3.9
+1358,Hebbal,Bellandur,06-01-2025,12:42 PM,4.9,115.32,PayPal,2,UberAuto,4.3
+1359,Whitefield,Electronic City,13-03-2025,1:22 PM,13.3,217.02,Credit Card,1,UberX,3.8
+1360,BTM Layout,Whitefield,26-01-2025,3:48 PM,7.2,142.19,UPI,3,UberX,4.8
+1361,HSR Layout,Yelahanka,27-01-2025,7:41 AM,8.7,195.96,UPI,1,UberXL,4
+1362,Bannerghatta Road,HSR Layout,03-01-2025,12:19 AM,22.4,389.27,PayPal,3,UberAuto,4.7
+1363,Jayanagar,Indiranagar,18-03-2025,12:31 PM,16.1,405.02,PayPal,3,UberAuto,4.5
+1364,Rajajinagar,HSR Layout,19-03-2025,4:18 AM,3.2,48.64,UPI,1,UberXL,3.8
+1365,Majestic,Koramangala,21-01-2025,17:55 PM,8,239.03,UPI,1,UberSUV,3.5
+1366,Bellandur,Marathahalli,24-02-2025,7:41 AM,29.8,703.9,Cash,4,UberX,5
+1367,BTM Layout,Yelahanka,27-01-2025,23:54 AM,29.8,604.59,Debit Card,4,UberSUV,4.3
+1368,Koramangala,HSR Layout,17-01-2025,21:46 AM,12.2,320.24,PayPal,2,UberSUV,4.4
+1369,BTM Layout,Marathahalli,12-01-2025,5:08 PM,12.6,,Cash,4,UberAuto,4.6
+1370,Majestic,Marathahalli,27-03-2025,12:28 PM,12.7,225.68,PayPal,2,UberX,4.2
+1371,Majestic,Koramangala,02-01-2025,6:55 PM,21.5,591.24,PayPal,3,UberXL,
+1372,Koramangala,Indiranagar,06-03-2025,12:57 AM,27.5,478.66,Credit Card,2,UberSUV,3.5
+1373,Majestic,HSR Layout,10-02-2025,23:20 PM,17.5,504.51,Cash,3,UberGo,
+1374,Indiranagar,Rajajinagar,03-03-2025,21:41 PM,27.2,515.41,PayPal,4,UberSUV,3.5
+1375,HSR Layout,Majestic,04-01-2025,16:18 AM,4,63.06,Credit Card,3,UberX,4.2
+1376,HSR Layout,BTM Layout,03-02-2025,21:42 AM,4.6,76.21,Credit Card,3,UberAuto,4
+1377,HSR Layout,Bellandur,25-01-2025,23:49 AM,3.5,69.58,Cash,1,UberGo,3.9
+1378,Whitefield,Bellandur,06-03-2025,3:09 PM,26.8,681.85,Debit Card,3,UberSUV,4.1
+1379,Electronic City,Marathahalli,25-02-2025,22:30 AM,20.8,357.94,,1,UberGo,3.7
+1380,Whitefield,BTM Layout,08-01-2025,17:26 PM,13.2,254.47,Credit Card,3,UberXL,4.8
+1381,Hebbal,Marathahalli,07-02-2025,3:49 AM,10.6,200.32,,2,UberAuto,4.2
+1382,Koramangala,Marathahalli,21-01-2025,20:49 AM,3.2,71.57,Debit Card,1,UberX,3.9
+1383,Bannerghatta Road,BTM Layout,20-03-2025,4:32 AM,11.7,277.26,Credit Card,4,UberGo,3.9
+1384,Majestic,Hebbal,24-02-2025,20:41 PM,14.1,336.67,UPI,2,UberGo,3.8
+1385,Jayanagar,Koramangala,28-01-2025,13:44 PM,5.9,119.38,Debit Card,4,UberXL,4
+1386,Bellandur,Bannerghatta Road,13-03-2025,17:08 AM,16.1,,Credit Card,4,UberX,4.1
+1387,MG Road,Electronic City,17-03-2025,20:33 AM,23.4,541.73,,2,UberX,4.3
+1388,BTM Layout,MG Road,15-03-2025,8:10 AM,13.6,205.08,Cash,1,UberSUV,4.1
+1389,Bellandur,Jayanagar,29-03-2025,23:53 PM,14.5,434.19,Credit Card,4,UberXL,3.9
+1390,MG Road,BTM Layout,19-01-2025,21:53 AM,25.7,,,1,UberXL,3.5
+1391,Majestic,Koramangala,23-03-2025,10:20 AM,9.9,218.71,UPI,4,UberXL,3.8
+1392,Bellandur,Whitefield,11-02-2025,17:47 AM,6.8,193.24,Cash,1,UberX,4.2
+1393,Marathahalli,Indiranagar,08-01-2025,15:43 AM,2.6,71.19,Credit Card,4,UberXL,4.2
+1394,Electronic City,Majestic,07-01-2025,17:07 AM,26.6,619.85,,1,UberX,3.9
+1395,Indiranagar,Majestic,13-03-2025,9:32 PM,21.2,499,PayPal,3,UberAuto,4.8
+1396,Marathahalli,Jayanagar,06-01-2025,14:22 PM,5.8,146.19,UPI,4,UberX,4.1
+1397,Yelahanka,Majestic,09-01-2025,10:08 PM,5.7,155.25,UPI,2,UberXL,4.6
+1398,Bellandur,Marathahalli,27-03-2025,17:59 AM,25.3,424.97,,1,UberGo,4.5
+1399,HSR Layout,BTM Layout,20-03-2025,12:47 AM,6.7,129.07,PayPal,4,UberSUV,4.3
+1400,Indiranagar,Electronic City,21-01-2025,19:08 AM,18.7,333.82,PayPal,3,UberSUV,
+1401,Indiranagar,Marathahalli,05-01-2025,3:58 AM,26.6,535.36,Credit Card,4,UberGo,4.2
+1402,Marathahalli,Indiranagar,16-02-2025,1:28 AM,13.7,307.16,Cash,3,UberSUV,4.7
+1403,Rajajinagar,Marathahalli,31-01-2025,20:17 AM,4.6,134.29,Debit Card,2,UberSUV,4.9
+1404,Indiranagar,Marathahalli,02-03-2025,17:17 PM,10.2,255.85,Cash,3,UberGo,5
+1405,Majestic,Marathahalli,04-02-2025,18:14 AM,9.5,142.81,Cash,4,UberGo,3.6
+1406,Koramangala,Jayanagar,01-03-2025,16:04 PM,29.2,868,Credit Card,2,UberSUV,4.1
+1407,Bellandur,Whitefield,13-01-2025,9:15 AM,27.5,604.45,Debit Card,3,UberX,4.1
+1408,MG Road,BTM Layout,14-01-2025,12:22 PM,30,497.17,Credit Card,1,UberAuto,3.8
+1409,Marathahalli,MG Road,13-01-2025,2:42 PM,12.2,,Credit Card,3,UberGo,4.6
+1410,Yelahanka,Hebbal,04-03-2025,10:07 PM,10.9,245.16,Credit Card,3,UberAuto,4.6
+1411,Yelahanka,Jayanagar,24-03-2025,8:19 PM,28.2,679.04,,2,UberXL,4.4
+1412,HSR Layout,Marathahalli,02-03-2025,6:22 PM,21.9,481.44,Debit Card,3,UberGo,4.4
+1413,Indiranagar,Yelahanka,24-01-2025,23:16 AM,11.9,239.7,UPI,2,UberAuto,3.9
+1414,Rajajinagar,Majestic,26-03-2025,22:31 PM,21.1,575.7,,3,UberXL,
+1415,MG Road,Yelahanka,14-01-2025,22:34 PM,26.9,517.2,Credit Card,2,UberSUV,3.5
+1416,MG Road,HSR Layout,12-01-2025,22:35 PM,14.5,346.03,Cash,2,UberAuto,4.1
+1417,MG Road,Yelahanka,28-03-2025,21:24 AM,29.6,837.62,Credit Card,1,UberX,4.2
+1418,Indiranagar,Rajajinagar,26-01-2025,12:55 AM,16.2,259.29,UPI,3,UberAuto,3.8
+1419,Marathahalli,Koramangala,01-03-2025,3:51 AM,6.7,108.53,Credit Card,4,UberAuto,3.6
+1420,MG Road,Jayanagar,14-01-2025,8:09 AM,6.7,147.68,Debit Card,3,UberGo,4.1
+1421,HSR Layout,Whitefield,15-02-2025,19:57 AM,20.4,380.13,Debit Card,1,UberXL,4.3
+1422,MG Road,Rajajinagar,27-02-2025,19:47 PM,25.9,730.36,Cash,2,UberSUV,4.4
+1423,Rajajinagar,Jayanagar,31-01-2025,12:20 PM,26.1,596.04,Cash,4,UberX,4.4
+1424,Whitefield,Marathahalli,21-02-2025,18:21 PM,15.1,378.91,PayPal,3,UberX,4.6
+1425,Marathahalli,Electronic City,05-02-2025,23:59 PM,25.5,701.34,,4,UberSUV,5
+1426,BTM Layout,Yelahanka,20-02-2025,4:36 AM,9.3,264.96,Credit Card,4,UberAuto,4.6
+1427,Majestic,HSR Layout,07-03-2025,3:01 PM,9.8,228.41,UPI,1,UberAuto,3.6
+1428,Bellandur,Hebbal,02-01-2025,21:04 AM,10.3,281.61,PayPal,1,UberAuto,
+1429,Hebbal,Koramangala,21-02-2025,21:00 AM,19.4,394.09,Debit Card,4,UberSUV,3.7
+1430,Jayanagar,MG Road,27-03-2025,11:41 PM,9.5,270.23,,4,UberX,4.5
+1431,Indiranagar,Yelahanka,24-03-2025,12:42 AM,22.9,,Cash,2,UberGo,4.6
+1432,Indiranagar,Koramangala,21-03-2025,4:33 PM,25.2,595.02,PayPal,4,UberAuto,3.5
+1433,Jayanagar,Yelahanka,19-03-2025,15:05 AM,23.4,456.52,Debit Card,2,UberGo,3.9
+1434,Electronic City,Majestic,23-03-2025,13:26 PM,2.3,53.49,Debit Card,1,UberX,3.7
+1435,Jayanagar,MG Road,18-02-2025,7:16 AM,17.4,370.12,Cash,2,UberSUV,4.7
+1436,Koramangala,Electronic City,05-01-2025,3:59 PM,11.5,313.96,Credit Card,3,UberX,4.1
+1437,BTM Layout,Bannerghatta Road,19-02-2025,7:02 PM,20.2,333.38,PayPal,2,UberSUV,
+1438,Bellandur,Jayanagar,20-03-2025,3:40 PM,4.5,119.78,Credit Card,3,UberGo,4.8
+1439,HSR Layout,Koramangala,20-01-2025,4:29 AM,19.4,321.44,PayPal,4,UberAuto,4
+1440,BTM Layout,Majestic,06-02-2025,1:23 PM,5,113.96,PayPal,1,UberGo,4.7
+1441,Hebbal,Marathahalli,28-01-2025,22:38 PM,16.8,450.59,UPI,3,UberXL,4.4
+1442,MG Road,Marathahalli,27-02-2025,11:54 AM,11,252.02,,4,UberXL,4.1
+1443,Bannerghatta Road,Jayanagar,12-03-2025,5:00 PM,3.4,65.71,Debit Card,2,UberXL,3.8
+1444,Bannerghatta Road,Yelahanka,08-03-2025,15:35 PM,19.4,307.63,Debit Card,3,UberSUV,4.3
+1445,Yelahanka,BTM Layout,19-02-2025,23:46 AM,11.8,313.32,UPI,2,UberAuto,
+1446,HSR Layout,Bellandur,29-01-2025,13:22 PM,8.8,235.29,Cash,3,UberAuto,3.8
+1447,Hebbal,Rajajinagar,24-02-2025,19:29 PM,26.9,715.76,Debit Card,1,UberSUV,4.5
+1448,Bellandur,Jayanagar,15-01-2025,13:01 AM,4.2,96.32,Cash,3,UberXL,3.7
+1449,Rajajinagar,Hebbal,16-03-2025,20:21 PM,22.2,591.97,Cash,4,UberSUV,4.2
+1450,Hebbal,HSR Layout,24-03-2025,8:41 PM,5.3,85.97,UPI,2,UberX,4.8
+1451,Majestic,Whitefield,28-02-2025,18:03 AM,18.5,439.92,UPI,3,UberX,4.3
+1452,Rajajinagar,MG Road,19-03-2025,13:07 AM,29.9,728.72,PayPal,4,UberGo,4.7
+1453,Whitefield,Bannerghatta Road,08-01-2025,12:10 AM,19,569,Debit Card,4,UberSUV,4.5
+1454,Yelahanka,Bannerghatta Road,29-01-2025,14:33 PM,2.2,39.26,Credit Card,1,UberXL,4.1
+1455,Koramangala,MG Road,02-03-2025,13:22 AM,3.5,89.83,UPI,3,UberAuto,3.9
+1456,MG Road,Bannerghatta Road,06-02-2025,15:07 PM,19.2,547.93,Cash,4,UberGo,3.7
+1457,Jayanagar,Electronic City,16-02-2025,5:46 PM,10.7,317.48,PayPal,3,UberAuto,4.8
+1458,HSR Layout,Bellandur,07-01-2025,21:58 AM,26.7,611.75,Cash,1,UberGo,3.8
+1459,Yelahanka,Jayanagar,28-02-2025,17:16 PM,2.9,57.79,PayPal,4,UberX,3.8
+1460,Yelahanka,Koramangala,06-03-2025,1:07 PM,10.9,244.43,Credit Card,3,UberXL,4.8
+1461,Marathahalli,Rajajinagar,17-03-2025,9:34 AM,26.3,416.98,PayPal,1,UberXL,4.8
+1462,Yelahanka,Bellandur,12-01-2025,8:24 PM,5.6,85.49,PayPal,2,UberX,4.1
+1463,Hebbal,Bannerghatta Road,03-01-2025,5:47 PM,22.1,511.01,Credit Card,3,UberXL,4.5
+1464,Bannerghatta Road,Indiranagar,11-01-2025,3:33 AM,28.1,755.17,Cash,3,UberXL,4.9
+1465,Koramangala,Hebbal,17-02-2025,23:43 AM,4.3,73.39,Cash,4,UberGo,3.6
+1466,Whitefield,Rajajinagar,29-03-2025,2:03 PM,6.9,167.15,PayPal,3,UberX,4.5
+1467,BTM Layout,Marathahalli,14-02-2025,23:19 AM,5.9,131.84,Cash,1,UberAuto,4.1
+1468,Marathahalli,BTM Layout,17-03-2025,2:08 AM,22.6,387.26,PayPal,2,UberAuto,
+1469,Whitefield,Bannerghatta Road,29-03-2025,6:41 AM,6.8,142.25,Cash,4,UberXL,3.9
+1470,Majestic,Rajajinagar,06-01-2025,4:04 PM,3.7,96.72,Credit Card,3,UberXL,
+1471,Yelahanka,BTM Layout,27-01-2025,17:58 AM,21.5,571.91,Cash,4,UberXL,4.5
+1472,Jayanagar,Yelahanka,06-03-2025,12:50 AM,10.2,298.13,PayPal,1,UberGo,4.9
+1473,Hebbal,Yelahanka,02-03-2025,7:00 AM,21.2,613.12,Credit Card,2,UberAuto,5
+1474,Yelahanka,Majestic,28-02-2025,5:19 AM,20.6,613.88,Credit Card,1,UberSUV,5
+1475,Whitefield,Hebbal,09-03-2025,13:04 PM,27,528.76,Credit Card,2,UberAuto,3.7
+1476,Whitefield,Koramangala,27-03-2025,19:29 AM,8.4,161.47,Credit Card,3,UberSUV,4
+1477,Yelahanka,BTM Layout,17-01-2025,9:51 AM,15,366.77,Debit Card,2,UberXL,4.1
+1478,MG Road,Electronic City,07-02-2025,1:13 AM,13.3,293.78,Cash,3,UberX,5
+1479,Whitefield,BTM Layout,02-01-2025,21:10 PM,6,168.73,PayPal,2,UberXL,4.8
+1480,Bellandur,BTM Layout,23-03-2025,17:32 PM,3,75.77,Cash,4,UberXL,4.1
+1481,Yelahanka,BTM Layout,15-01-2025,3:17 AM,9.5,185.11,Debit Card,4,UberXL,3.7
+1482,Indiranagar,Yelahanka,09-03-2025,21:43 PM,10.5,205.2,Cash,1,UberX,4.7
+1483,Marathahalli,Rajajinagar,12-02-2025,9:54 PM,23.7,372.75,Credit Card,1,UberXL,3.5
+1484,Indiranagar,Rajajinagar,19-03-2025,17:53 PM,16.8,404.67,Debit Card,1,UberSUV,4.1
+1485,Jayanagar,Whitefield,28-01-2025,10:14 AM,4.1,105.51,Debit Card,1,UberGo,4.6
+1486,Electronic City,Koramangala,18-02-2025,22:00 PM,12.6,351.64,,3,UberSUV,
+1487,Bellandur,MG Road,25-03-2025,22:56 AM,9,204.85,,3,UberGo,4.7
+1488,BTM Layout,Jayanagar,28-01-2025,8:38 AM,7.1,198.39,Credit Card,4,UberX,4.3
+1489,MG Road,Indiranagar,17-01-2025,6:18 PM,15.9,287.82,,2,UberSUV,4.7
+1490,Koramangala,Bellandur,28-01-2025,1:23 PM,19.1,307.68,Debit Card,3,UberSUV,3.6
+1491,Yelahanka,Electronic City,26-01-2025,1:59 PM,19.6,344.91,Cash,3,UberGo,4.2
+1492,Jayanagar,BTM Layout,04-03-2025,10:52 AM,21.3,376.28,,4,UberSUV,4.6
+1493,Hebbal,Marathahalli,20-02-2025,18:52 AM,23.2,517.12,Debit Card,4,UberXL,4.7
+1494,Yelahanka,Rajajinagar,17-03-2025,21:59 PM,5.9,134.69,PayPal,2,UberGo,4.1
+1495,Rajajinagar,Hebbal,27-01-2025,11:54 AM,11.6,237.04,Credit Card,4,UberSUV,4.8
+1496,Yelahanka,Whitefield,02-01-2025,4:08 PM,8.7,231.54,Cash,2,UberXL,4.8
+1497,Majestic,BTM Layout,19-03-2025,11:59 AM,18.2,453.5,Debit Card,4,UberXL,4.8
+1498,Hebbal,Bannerghatta Road,07-03-2025,12:29 AM,13.6,242.19,Cash,1,UberXL,4.8
+1499,BTM Layout,MG Road,12-02-2025,14:14 AM,12.8,314.8,UPI,1,UberSUV,4.2
+1500,Whitefield,Electronic City,24-01-2025,15:13 AM,14.3,251.74,Credit Card,3,UberXL,4.5
