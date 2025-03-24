@@ -33,7 +33,7 @@ Walmart operates multiple branches across different cities and deals with variou
 - **MySQL**: For data storage and executing SQL queries for analysis.
 - **Power BI**: For visualizing key sales metrics through interactive dashboards.
 - **Python**: For data preprocessing and additional analysis.
-
+![image_anti](https://github.com/Pdeep666/POWERBI/blob/71c2f3a13f0226b3cef6729555530cb0ba8cada3/WALMART_SALES_ANALYSIS/Screenshot%20(202).png)
 ## Files Included
 
 1. **DASHBOARD.pdf**: Contains Power BI dashboard visuals representing key sales metrics.
