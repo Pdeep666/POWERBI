@@ -21,7 +21,7 @@ Wildfires and uncontrolled burning cause significant damage to natural ecosystem
 - **Trends Over Time**:
   - The total burnt area has shown fluctuations over the years, with forecasts indicating potential increases in coming years.
   - Shrubland and savannas account for the majority of burnt areas, followed by forests and cropland.
-
+![image_anti](https://github.com/Pdeep666/POWERBI/blob/adb24533376ba4438ff8628cc69a721708a9b480/LAND_AREA_BURNT/Screenshot%20(204).png)
 ## Tools Used
 - **Power BI**: For data visualization and trend analysis.
 
