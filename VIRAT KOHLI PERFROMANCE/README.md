@@ -41,7 +41,7 @@ By leveraging **Power BI for visualization**, this analysis can aid **team selec
 ### Yearly Performance Trends  
 - Steady increase in **runs, strike rate, and boundary count** over the years.  
 - Visual trends show fluctuations in **dismissals, 4s & 6s, and strike rate per year**.  
-  [image_anti](https://github.com/Pdeep666/POWERBI/blob/15f5c9244a4d137ccebcb40c1de23a5b33f4f26e/VIRAT%20KOHLI%20PERFROMANCE/Screenshot%20(206).png)
+  ![image_anti](https://github.com/Pdeep666/POWERBI/blob/15f5c9244a4d137ccebcb40c1de23a5b33f4f26e/VIRAT%20KOHLI%20PERFROMANCE/Screenshot%20(206).png)
 ## Tools Used  
 - **Power BI** for visualization  
 - **Data Analytics** for performance insights  
