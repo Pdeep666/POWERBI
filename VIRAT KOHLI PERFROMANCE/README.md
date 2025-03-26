@@ -49,6 +49,3 @@ By leveraging **Power BI for visualization**, this analysis can aid **team selec
 ## License  
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute it for personal and commercial purposes, with proper attribution.  
 
----
-
-Would you like any further refinements or additions? 🚀
